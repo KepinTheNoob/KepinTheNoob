@@ -1,10 +1,10 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kevin+Setiawan+%F0%9F%91%8B;Computer+Science+Student+at+Binus;Data+Scientist+%7C+Full+Stack+Developer;AI+%26+Full+Stack+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kevin+Setiawan+%F0%9F%91%8B;Computer+Science+Student+at+Binus;AI+%26+Full+Stack+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Computer Science Student** at Binus University (Class of B27)  
+- 🎓 **Master of Information Technology Student** at Binus University (Class of B27)  
 - 💼 **RND Staff** at BNCC — Internal Development  
 - 💡 Passionate about **AI applications**, and **full-stack development**  
 - 🎯 Focused on building **real-world impactful projects**  
